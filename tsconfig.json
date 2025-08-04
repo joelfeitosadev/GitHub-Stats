@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "public/dist"
+  },
+  "include": ["src/index.ts"]
+}
